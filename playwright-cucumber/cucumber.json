@@ -14,6 +14,7 @@
       "progress",
       "html:cucumber-report.html"
 //test
+      //test2
     ]
   }
 }
