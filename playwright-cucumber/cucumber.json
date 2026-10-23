@@ -13,6 +13,7 @@
     "format": [
       "progress",
       "html:cucumber-report.html"
+//test
     ]
   }
 }
